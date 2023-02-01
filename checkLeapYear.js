@@ -1,3 +1,4 @@
+// Check leap year
 
 function checkLeapYear(year){
     if(year % 4==0){
